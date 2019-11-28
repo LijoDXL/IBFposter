@@ -31,3 +31,8 @@ of the  storm after the first curvature.
 * The following nest movement is from the cycle initialized at 2019-06-11 00UTC.
 
 <img src="grid_animation.gif" width="500" height="400">
+
+## SST simulation
+
+<img src="sst_animation.gif" width="400" height="400">
+
