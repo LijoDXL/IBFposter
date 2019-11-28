@@ -1,8 +1,8 @@
-# IBFposter
-Poster presented during WCSSP 3 - IBF Workshop, IITM Pune 29-30 Nov 2019. You can grab a pdf copy of the poster [here](poster.pdf).
-
 ## Title
-Ocean response to Tropical Cyclone Vayu
+**Ocean response to Tropical Cyclone Vayu**
+
+* Poster presented during WCSSP 3 - IBF Workshop held at IITM Pune 29-30 Nov 2019.
+* You can grab a PDF copy of the poster [here](poster.pdf).
 
 ## Abstract
 A very severe cyclonic storm Vayu which is unique in many aspects originated
@@ -29,4 +29,4 @@ The inner two nests follows the storm. Note that every 10th grid point is plotte
 in both x and y direction for better visualization.
 The following nest movement is from the cycle initialized at 2019-06-11 00UTC.
 
-<img src="grid_animation.gif" width="400" height="400">
+<img src="grid_animation.gif" width="600" height="400">
