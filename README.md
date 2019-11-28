@@ -34,5 +34,7 @@ of the  storm after the first curvature.
 
 ## SST simulation
 
+The following output is compiled by aggregating all 6-hr forecast from each cycle.
+
 <img src="sst_animation.gif" width="400" height="400">
 
