@@ -25,8 +25,9 @@ caused poor surface cooling expected due to entrainment. A shallow mixed layer
 of the  storm after the first curvature.
 
 ## HWRF model grid
-The inner two nests follows the storm. Note that every 10th grid point is plotted here
-in both x and y direction for better visualization.
-The following nest movement is from the cycle initialized at 2019-06-11 00UTC.
+* The inner two nests follows the storm.
+* Note that every 10th grid point in x and y direction is plotted here for
+  clarity.
+* The following nest movement is from the cycle initialized at 2019-06-11 00UTC.
 
-<img src="grid_animation.gif" width="600" height="400">
+<img src="grid_animation.gif" width="500" height="400">
