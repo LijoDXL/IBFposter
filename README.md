@@ -1,10 +1,10 @@
 # IBFposter
 Poster presented during WCSSP 3 - IBF Workshop, IITM Pune 29-30 Nov 2019. You can grab a pdf copy of the poster [here](poster.pdf).
 
-##Title
+## Title
 Ocean response to Tropical Cyclone Vayu
 
-##Abstract
+## Abstract
 A very severe cyclonic storm Vayu which is unique in many aspects originated
 near the southeast Arabian sea with multiple curvatures on 10-June-2019 and made
 landfall on  17-June-2019. We have simulated the storm using a coupled
@@ -29,4 +29,4 @@ The inner two nests follows the storm. Note that every 10th grid point is plotte
 in both x and y direction for better visualization.
 The following nest movement is from the cycle initialized at 2019-06-11 00UTC.
 
-![moving grid](grid_animation.gif){:height="50%" width="50%"}
+<img src="grid_animation.gif" width="400" height="400">
